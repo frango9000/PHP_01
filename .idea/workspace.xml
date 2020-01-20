@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ca97905-43c8-4560-9364-31aea9dcab9b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ej_09/0a.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ej_09/0b.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ej_09/0c.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ej_09/0e-insert.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ej_09/0f-delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ej_09/0f-update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ej_09/db.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="/usr/share/php" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1TKp8g29BKDYdiH96AeJKcHDnM6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ej_09" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ej_09" />
+      <recent name="$PROJECT_DIR$/ej_08" />
+      <recent name="$PROJECT_DIR$/cont" />
+      <recent name="$PROJECT_DIR$/ej_07/07" />
+      <recent name="$PROJECT_DIR$/ej_07/05" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.0g-delete.php">
+    <configuration name="0b-query.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ej_09/0b-query.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="0c-query.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ej_09/0c-query.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="0e-insert.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ej_09/0e-insert.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="0f-update.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ej_09/0f-update.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="0g-delete.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ej_09/0g-delete.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.0g-delete.php" />
+        <item itemvalue="PHP Script.0f-update.php" />
+        <item itemvalue="PHP Script.0c-query.php" />
+        <item itemvalue="PHP Script.0e-insert.php" />
+        <item itemvalue="PHP Script.0b-query.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ca97905-43c8-4560-9364-31aea9dcab9b" name="Default Changelist" comment="" />
+      <created>1573218483997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573218483997</updated>
+      <workItem from="1573218485144" duration="1527000" />
+      <workItem from="1573466866785" duration="507000" />
+      <workItem from="1573818715822" duration="4479000" />
+      <workItem from="1574425077041" duration="601000" />
+      <workItem from="1574428856580" duration="1828000" />
+      <workItem from="1579263294505" duration="770000" />
+      <workItem from="1579264366947" duration="2008000" />
+      <workItem from="1579514415939" duration="5184000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1573825457933</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573825457933</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Get Post">
+      <created>1574430668309</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574430668309</updated>
+    </task>
+    <task id="LOCAL-00003" summary="MySQL &amp; fopen&#10;contenido">
+      <created>1579265384294</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579265384294</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="init" />
+    <MESSAGE value="Get Post" />
+    <MESSAGE value="MySQL &amp; fopen&#10;contenido" />
+    <option name="LAST_COMMIT_MESSAGE" value="MySQL &amp; fopen&#10;contenido" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="643" y="253" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579264343159">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state x="643" y="253" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1920.996@0.27.1920.996" timestamp="1579264343159" />
+    <state x="431" y="121" width="1047" height="807" key="CommitChangelistDialog2" timestamp="1579523630829">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state x="431" y="121" width="1047" height="807" key="CommitChangelistDialog2/0.27.1920.996@0.27.1920.996" timestamp="1579523630829" />
+    <state x="743" y="283" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579519497058">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state x="743" y="283" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.996@0.27.1920.996" timestamp="1579519497058" />
+    <state width="1000" height="352" key="GridCell.Tab.0.bottom" timestamp="1579523542491">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state width="1000" height="352" key="GridCell.Tab.0.bottom/0.27.1920.996@0.27.1920.996" timestamp="1579523542491" />
+    <state width="1000" height="352" key="GridCell.Tab.0.center" timestamp="1579523542490">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state width="1000" height="352" key="GridCell.Tab.0.center/0.27.1920.996@0.27.1920.996" timestamp="1579523542490" />
+    <state width="1000" height="352" key="GridCell.Tab.0.left" timestamp="1579523542489">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state width="1000" height="352" key="GridCell.Tab.0.left/0.27.1920.996@0.27.1920.996" timestamp="1579523542489" />
+    <state width="1000" height="352" key="GridCell.Tab.0.right" timestamp="1579523542490">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state width="1000" height="352" key="GridCell.Tab.0.right/0.27.1920.996@0.27.1920.996" timestamp="1579523542490" />
+    <state x="755" y="450" width="399" height="149" key="NewPhpFileDialog" timestamp="1579523196017">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state x="755" y="450" width="399" height="149" key="NewPhpFileDialog/0.27.1920.996@0.27.1920.996" timestamp="1579523196017" />
+    <state x="449" y="160" width="1120" height="730" key="SettingsEditor" timestamp="1579519499506">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state x="449" y="160" width="1120" height="730" key="SettingsEditor/0.27.1920.996@0.27.1920.996" timestamp="1579519499506" />
+    <state x="555" y="261" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579514447350">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state x="555" y="261" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.996@0.27.1920.996" timestamp="1579514447350" />
+    <state x="616" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1579514417339">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state x="616" y="352" key="com.intellij.ide.util.TipDialog/0.27.1920.996@0.27.1920.996" timestamp="1579514417339" />
+  </component>
+</project>
