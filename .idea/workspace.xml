@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ca97905-43c8-4560-9364-31aea9dcab9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ej_09/ej_www/MySQLPhpDataObjects/mysql_5c_multi_insert.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ej_09/ej_www/MySQLPhpDataObjects/mysql_6c_prepared_statement.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ej_09/ej_www/MySQLPhpDataObjects/mysql_7c_query.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ej_09/ej_www/MySQLi/mysql_5a_multi_insert.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ej_09/ej_www/MySQLi/mysql_6a_prepared_statement.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ej_09/ej_www/MySQLi/mysql_7a_query.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ej_09/ej_www/MySQLiProcedural/mysql_5b_multi_insert.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ej_09/ej_www/MySQLiProcedural/mysql_7b_query.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ej_09/ej_www/MySQLPhpDataObjects/mysql_10c_update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ej_09/ej_www/MySQLPhpDataObjects/mysql_8c_query_where.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ej_09/ej_www/MySQLPhpDataObjects/mysql_9c_delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ej_09/ej_www/MySQLi/mysql_10a_update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ej_09/ej_www/MySQLi/mysql_8a_delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ej_09/ej_www/MySQLi/mysql_8a_query_where.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ej_09/ej_www/MySQLi/mysql_9a_delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ej_09/ej_www/MySQLiProcedural/mysql_10b_update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ej_09/ej_www/MySQLiProcedural/mysql_8b_query_where.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ej_09/ej_www/MySQLiProcedural/mysql_9b_delete.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ej_09/ej_www/MySQLPhpDataObjects/mysql_3d_inserted_id.php" beforeDir="false" afterPath="$PROJECT_DIR$/ej_09/ej_www/MySQLPhpDataObjects/mysql_4d_inserted_id.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,29 +92,29 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.mysql_7c_query.php">
-    <configuration name="mysql_4d_inserted_id.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ej_09/ej_www/MySQLPhpDataObjects/mysql_4d_inserted_id.php">
+  <component name="RunManager" selected="PHP Script.mysql_10c_update.php">
+    <configuration name="mysql_10a_update.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ej_09/ej_www/MySQLi/mysql_10a_update.php">
       <method v="2" />
     </configuration>
-    <configuration name="mysql_6a_prepared_statement.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ej_09/ej_www/MySQLi/mysql_6a_prepared_statement.php">
+    <configuration name="mysql_10c_update.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ej_09/ej_www/MySQLPhpDataObjects/mysql_10c_update.php">
       <method v="2" />
     </configuration>
-    <configuration name="mysql_6c_prepared_statement.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ej_09/ej_www/MySQLPhpDataObjects/mysql_6c_prepared_statement.php">
+    <configuration name="mysql_9a_delete.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ej_09/ej_www/MySQLi/mysql_9a_delete.php">
       <method v="2" />
     </configuration>
-    <configuration name="mysql_7a_query.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ej_09/ej_www/MySQLi/mysql_7a_query.php">
+    <configuration name="mysql_9b_delete.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ej_09/ej_www/MySQLiProcedural/mysql_9b_delete.php">
       <method v="2" />
     </configuration>
-    <configuration name="mysql_7c_query.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ej_09/ej_www/MySQLPhpDataObjects/mysql_7c_query.php">
+    <configuration name="mysql_9c_delete.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ej_09/ej_www/MySQLPhpDataObjects/mysql_9c_delete.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="PHP Script.mysql_7c_query.php" />
-        <item itemvalue="PHP Script.mysql_7a_query.php" />
-        <item itemvalue="PHP Script.mysql_6c_prepared_statement.php" />
-        <item itemvalue="PHP Script.mysql_6a_prepared_statement.php" />
-        <item itemvalue="PHP Script.mysql_4d_inserted_id.php" />
+        <item itemvalue="PHP Script.mysql_10c_update.php" />
+        <item itemvalue="PHP Script.mysql_10a_update.php" />
+        <item itemvalue="PHP Script.mysql_9c_delete.php" />
+        <item itemvalue="PHP Script.mysql_9b_delete.php" />
+        <item itemvalue="PHP Script.mysql_9a_delete.php" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +148,7 @@
       <workItem from="1579263294505" duration="770000" />
       <workItem from="1579264366947" duration="2008000" />
       <workItem from="1579514415939" duration="5346000" />
-      <workItem from="1579775744289" duration="2576000" />
+      <workItem from="1579775744289" duration="3052000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1573825457933</created>
@@ -184,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579778668715</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="www tut&#10;mysql multi insert,prepared statement, query">
+      <created>1579779240668</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579779240668</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +219,8 @@
     <MESSAGE value="MySQL &amp; fopen&#10;contenido" />
     <MESSAGE value="php - mysql ejemplos" />
     <MESSAGE value="www tut&#10;mysql php conn, create db, create table, insert, get id" />
-    <option name="LAST_COMMIT_MESSAGE" value="www tut&#10;mysql php conn, create db, create table, insert, get id" />
+    <MESSAGE value="www tut&#10;mysql multi insert,prepared statement, query" />
+    <option name="LAST_COMMIT_MESSAGE" value="www tut&#10;mysql multi insert,prepared statement, query" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -232,30 +241,30 @@
       <screen x="0" y="27" width="1920" height="996" />
     </state>
     <state x="643" y="253" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1920.996@0.27.1920.996" timestamp="1579264343159" />
-    <state x="431" y="121" width="1047" height="807" key="CommitChangelistDialog2" timestamp="1579778668566">
+    <state x="431" y="121" width="1047" height="807" key="CommitChangelistDialog2" timestamp="1579779240567">
       <screen x="0" y="27" width="1920" height="996" />
     </state>
-    <state x="431" y="121" width="1047" height="807" key="CommitChangelistDialog2/0.27.1920.996@0.27.1920.996" timestamp="1579778668566" />
+    <state x="431" y="121" width="1047" height="807" key="CommitChangelistDialog2/0.27.1920.996@0.27.1920.996" timestamp="1579779240567" />
     <state x="743" y="283" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579519497058">
       <screen x="0" y="27" width="1920" height="996" />
     </state>
     <state x="743" y="283" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.996@0.27.1920.996" timestamp="1579519497058" />
-    <state width="1056" height="352" key="GridCell.Tab.0.bottom" timestamp="1579779177043">
+    <state width="1056" height="352" key="GridCell.Tab.0.bottom" timestamp="1579779670753">
       <screen x="0" y="27" width="1920" height="996" />
     </state>
-    <state width="1056" height="352" key="GridCell.Tab.0.bottom/0.27.1920.996@0.27.1920.996" timestamp="1579779177043" />
-    <state width="1056" height="352" key="GridCell.Tab.0.center" timestamp="1579779177042">
+    <state width="1056" height="352" key="GridCell.Tab.0.bottom/0.27.1920.996@0.27.1920.996" timestamp="1579779670753" />
+    <state width="1056" height="352" key="GridCell.Tab.0.center" timestamp="1579779670752">
       <screen x="0" y="27" width="1920" height="996" />
     </state>
-    <state width="1056" height="352" key="GridCell.Tab.0.center/0.27.1920.996@0.27.1920.996" timestamp="1579779177042" />
-    <state width="1056" height="352" key="GridCell.Tab.0.left" timestamp="1579779177041">
+    <state width="1056" height="352" key="GridCell.Tab.0.center/0.27.1920.996@0.27.1920.996" timestamp="1579779670752" />
+    <state width="1056" height="352" key="GridCell.Tab.0.left" timestamp="1579779670750">
       <screen x="0" y="27" width="1920" height="996" />
     </state>
-    <state width="1056" height="352" key="GridCell.Tab.0.left/0.27.1920.996@0.27.1920.996" timestamp="1579779177041" />
-    <state width="1056" height="352" key="GridCell.Tab.0.right" timestamp="1579779177042">
+    <state width="1056" height="352" key="GridCell.Tab.0.left/0.27.1920.996@0.27.1920.996" timestamp="1579779670750" />
+    <state width="1056" height="352" key="GridCell.Tab.0.right" timestamp="1579779670752">
       <screen x="0" y="27" width="1920" height="996" />
     </state>
-    <state width="1056" height="352" key="GridCell.Tab.0.right/0.27.1920.996@0.27.1920.996" timestamp="1579779177042" />
+    <state width="1056" height="352" key="GridCell.Tab.0.right/0.27.1920.996@0.27.1920.996" timestamp="1579779670752" />
     <state x="755" y="450" width="399" height="149" key="NewPhpFileDialog" timestamp="1579778549397">
       <screen x="0" y="27" width="1920" height="996" />
     </state>
@@ -264,10 +273,10 @@
       <screen x="0" y="27" width="1920" height="996" />
     </state>
     <state x="449" y="160" width="1120" height="730" key="SettingsEditor/0.27.1920.996@0.27.1920.996" timestamp="1579519499506" />
-    <state x="555" y="261" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579778672946">
+    <state x="555" y="261" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579779244698">
       <screen x="0" y="27" width="1920" height="996" />
     </state>
-    <state x="555" y="261" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.996@0.27.1920.996" timestamp="1579778672946" />
+    <state x="555" y="261" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.996@0.27.1920.996" timestamp="1579779244698" />
     <state x="616" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1579775744472">
       <screen x="0" y="27" width="1920" height="996" />
     </state>
